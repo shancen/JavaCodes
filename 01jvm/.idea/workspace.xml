@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f034424-ff8c-46c6-b9fa-071524900cf9" name="Default Changelist" comment="第一周作业：JVM" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\mvnrepositor" />
+        <option name="mavenHome" value="E:/JavaTool/maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\JavaTool\maven\apache-maven-3.8.1\conf\settings2.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20aNAYrdORZ0x4c9i4WllOZOJ0r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f034424-ff8c-46c6-b9fa-071524900cf9" name="Default Changelist" comment="" />
+      <created>1636278596020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636278596020</updated>
+      <workItem from="1636278598386" duration="291000" />
+      <workItem from="1636279036261" duration="1004000" />
+      <workItem from="1636280343509" duration="238000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一周作业：JVM">
+      <created>1636278703149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636278703149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一周作业：JVM">
+      <created>1636279092067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636279092067</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="第一周作业：JVM" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一周作业：JVM" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="87" key="CommitChangelistDialog2" timestamp="1636279409820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1636279409820" />
+    <state x="477" y="165" key="SettingsEditor" timestamp="1636280571180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1636280571180" />
+    <state x="568" y="253" key="Vcs.Push.Dialog.v2" timestamp="1636279582323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="568" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1636279582323" />
+    <state x="690" y="307" key="git4idea.merge.GitPullDialog" timestamp="1636279101131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636279101131" />
+    <state x="777" y="427" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1636279802551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="427" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636279802551" />
+  </component>
+</project>
